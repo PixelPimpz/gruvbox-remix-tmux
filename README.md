@@ -1,4 +1,4 @@
-# Gruvbox-Next
+# tmux-groovy
 Hopefully a snazzy, fresh gruvbox-based theme for Tmux. Derived from the gruvbox-dark color set and featuring a modular status bar with visuals designed to convey all the info you want without clutter or confusing clusters  of mostly useless data.
 
 This is my first Tmux project and it's as much a sandbox playspace for me to try different hair-brained ideas while I learn this absolutely bonkers system of configuration.
